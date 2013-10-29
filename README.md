@@ -7,7 +7,9 @@ businessItem
 [EXCEL檔](http://gcis.nat.gov.tw/cod/doc-cgi/download.exe?STARTPRO=/home/doc/cod/bin/download.pro)
 [WORD檔](http://gcis.nat.gov.tw/cod/code_v8.doc)
 
-** update:v8.1021023 **
+#### Change History
+
+**v8.1021023**
 
 [增列類容](http://gcis.nat.gov.tw/cod/history/1021023.html)
 
